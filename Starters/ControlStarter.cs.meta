@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6dd2d4507f4592e4c8dfc7da5edac893
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aBackGround: {fileID: 8300000, guid: aa5f036c36a6b234e9d22f20a232e910, type: 3}
+  - aMusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
